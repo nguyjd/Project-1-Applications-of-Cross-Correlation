@@ -21,9 +21,9 @@ The matlab version this is developed on is R2021a on Windows.
 
 # Features
 
-- [ ] Detect the phase and period of a sinusoid in a noisy signal.
-- [ ] Detect the frequency of a sinusoid in a noisy signal.
-- [ ] Process a video image to find a frequency of a signal.
+- [x] Detect the phase and period of a sinusoid in a noisy signal.
+- [x] Detect the frequency of a sinusoid in a noisy signal.
+- [x] Process a video image to find a frequency of a signal.
 
 # Links
 
