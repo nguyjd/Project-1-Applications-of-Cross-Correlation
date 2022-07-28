@@ -15,7 +15,7 @@ This project is inspired from [Michael Rubinstein Ted Talk](https://www.ted.com/
 
 # Requirements
 
-The matlab version this is developed on is R2021a on Windows.
+The matlab version is developed on is R2021a on Windows.
 - Matlab R2021a
 - Windows 10 OS
 
